@@ -1,0 +1,19 @@
+{
+  "${modID}:RelicID": {
+    "NAME": "Good Relic",
+    "FLAVOR": "Flavor text displayed in detailed relic view.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. [E] is an energy icon."
+    ]
+  },
+
+  "nikoandcs:Shrimp": {
+    "NAME": "虾",
+    "FLAVOR": "不知为何流传的绰号，借由传说升华的宝具。",
+    "DESCRIPTIONS": [
+      "战斗开始时，在普通敌人战时获得 2 层力量；在精英战时获得 1 层力量；在首领战时失去 1 层力量。"
+    ]
+  }
+
+
+}

@@ -1,0 +1,16 @@
+{
+  "${modID}:PowerID": {
+    "NAME": "Ultimate Power",
+    "DESCRIPTIONS": [
+      "You are Very Cool and Strong."
+    ]
+  },
+  "nikoandcs:BrainKingPower": {
+    "NAME": "脑力王",
+    "DESCRIPTIONS": [
+      "在你的回合开始时 ， ",
+      "加入你的手牌 。",
+      "加入你的手牌 。"
+    ]
+  }
+}

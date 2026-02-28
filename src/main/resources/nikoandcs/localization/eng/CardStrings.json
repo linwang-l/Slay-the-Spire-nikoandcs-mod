@@ -1,0 +1,263 @@
+{
+  "${modID}:ExampleCard": {
+    "NAME": "Name",
+    "DESCRIPTION": "Description.",
+    "UPGRADE_DESCRIPTION": "This will automatically be used if the card is upgraded. Remove it if unneeded.",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:Strike": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 点伤害."
+  },
+  "nikoandcs:Defend": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 点格挡。"
+  },
+  "nikoandcs:Badjoke": {
+    "NAME": "烂梗+1",
+    "DESCRIPTION": "抽 !M! 张牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " 抽 !M! 张牌。 NL 消耗 。"
+  },
+  "nikoandcs:PreAim": {
+    "NAME": "预瞄",
+    "DESCRIPTION": "获得 !M! 点临时力量。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 点临时力量。"
+  },
+  "nikoandcs:Positioning": {
+    "NAME": "选位",
+    "DESCRIPTION": "获得 !B! 点格挡。获得 !M! 点敏捷。 消耗 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。获得 !M! 点敏捷。 消耗 。"
+  },
+  "nikoandcs:Strafe": {
+    "NAME": "扫射转移",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害 !M! 次。丢弃手牌中所有的攻击牌。",
+    "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害 !M! 次。丢弃手牌中所有的攻击牌。"
+  },
+  "nikoandcs:Backstab": {
+    "NAME": "背刺",
+    "DESCRIPTION": "造成 !D! 点伤害。仅在对手意图不为攻击时才可以打出。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。仅在对手意图不为攻击时才可以打出。"
+  },
+  "nikoandcs:Flashbang": {
+    "NAME": "闪光",
+    "DESCRIPTION": "对所有敌人施加 !M! 层虚弱。所有敌人失去 4 层力量一回合。 消耗 。",
+    "UPGRADE_DESCRIPTION": "对所有敌人施加 !M! 层虚弱。所有敌人失去 6 层力量一回合。 消耗 。"
+  },
+  "nikoandcs:EcoRound": {
+    "NAME": "eco一把",
+    "DESCRIPTION": "下回合开始时获得 2 点能量，额外抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "下回合开始时获得 2 点能量，额外抽 !M! 张牌。"
+  },
+  "nikoandcs:Grenade": {
+    "NAME": "手雷",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 消耗 。",
+    "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害。 消耗 。"
+  },
+  "nikoandcs:RawPower": {
+    "NAME": "正面实力",
+    "DESCRIPTION": "造成 !D! 点伤害。"
+  },
+  "nikoandcs:DualPistols": {
+    "NAME": "双枪",
+    "DESCRIPTION": "造成 !D! 点伤害 !M! 次。"
+  },
+  "nikoandcs:ButLookAt": {
+    "NAME": "but look at ……",
+    "DESCRIPTION": "获得 !nikoandcs:str! 点 力量 。 NL 所有牌耗能变为 0 。 NL 抽 !M! 张牌 。 NL 本回合无法再抽牌 。 NL 下回合 死亡 。 NL 虚无 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "获得 !nikoandcs:str! 点 力量 。 NL 所有牌耗能变为 0 。 NL 抽 !M! 张牌 。 NL 本回合无法再抽牌 。 NL 下回合 死亡 。 NL 虚无 。 NL 消耗 。"
+  },
+  "nikoandcs:FeelingHot": {
+    "NAME": "手感火热",
+    "DESCRIPTION": "每回合中，每打出 2 张攻击牌，获得 1 点能量。",
+    "UPGRADE_DESCRIPTION": "每回合中，每打出 2 张攻击牌，获得 1 点能量。"
+  },
+  "nikoandcs:AStringOfNumbers": {
+    "NAME": "一串数字",
+    "DESCRIPTION": "每回合开始时，将 1 张 烂梗+1 加入手牌。",
+    "UPGRADE_DESCRIPTION": "每回合开始时，将 1 张升级后的 烂梗+1 加入手牌。"
+  },
+  "nikoandcs:Spotting": {
+    "NAME": "定位",
+    "DESCRIPTION": "对所有敌人施加 !M! 层易伤。",
+    "UPGRADE_DESCRIPTION": "对所有敌人施加 !M! 层易伤。"
+  },
+  "nikoandcs:AggressivePositioning": {
+    "NAME": "永不路边",
+    "DESCRIPTION": "获得 2 层易伤 。 NL 获得 !M! 点力量。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "获得 2 层易伤 。 NL 获得 !M! 点力量。 NL 消耗 。"
+  },
+  "nikoandcs:Incendiary": {
+    "NAME": "燃烧弹",
+    "DESCRIPTION": "给予 !M! 层 中毒 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "给予 !M! 层 中毒 。 NL 消耗 。"
+  },
+  "nikoandcs:HumorousSniper": {
+    "NAME": "幽默尼狙",
+    "DESCRIPTION": "获得 !M! 点 力量 。 NL 获得 !nikoandcs:weakAmt! 层 虚弱 。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 点 力量 。 NL 获得 !nikoandcs:weakAmt! 层 虚弱 。"
+  },
+  "nikoandcs:UtilityKit": {
+    "NAME": "自助道具",
+    "DESCRIPTION": "随机将一张 0 费的 投掷物 加入你的手牌 。",
+    "UPGRADE_DESCRIPTION": "随机将一张 0 费的 升级 投掷物 加入你的手牌 。"
+  },
+  "nikoandcs:PullTheTrigger": {
+    "NAME": "扣下扳机",
+    "DESCRIPTION": "造成 !D! 点伤害。 抽 !M! 张牌。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 抽 !M! 张牌。"
+  },
+  "nikoandcs:AmmoSatiety": {
+    "NAME": "弹药充足",
+    "DESCRIPTION": "从你的摸牌堆中选择 !M! 张攻击牌放入你的手牌 。",
+    "UPGRADE_DESCRIPTION": "从你的摸牌堆中选择 !M! 张攻击牌放入你的手牌 。",
+    "EXTENDED_DESCRIPTION": [
+      "我的摸牌堆里没有攻击牌 。"
+    ]
+  },
+  "nikoandcs:Struggling": {
+    "NAME": "苦苦支撑",
+    "DESCRIPTION": "获得 !B! 点格挡 。 NL 抽 !M! 张牌 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡 。 NL 抽 !M! 张牌 。"
+  },
+  "nikoandcs:Provoke": {
+    "NAME": "互动",
+    "DESCRIPTION": "获得 !M! 点 力量 。 NL 目标获得 1 点 力量 。 NL 给予目标 !nikoandcs:vulnAmt! 层 易伤 。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 点 力量 。 NL 目标获得 1 点 力量 。 NL 给予目标 !nikoandcs:vulnAmt! 层 易伤 。"
+  },
+  "nikoandcs:ArchesSpin": {
+    "NAME": "拱门陀螺",
+    "DESCRIPTION": "打出你手牌中所有的 攻击牌 。",
+    "UPGRADE_DESCRIPTION": "打出你手牌中所有的 攻击牌 。"
+  },
+  "nikoandcs:Hide": {
+    "NAME": "hide",
+    "DESCRIPTION": "获得 !B! 点格挡 。 NL 获得 !M! 层 虚弱 。 NL 立即 结束你的回合 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡 。 NL 获得 !M! 层 虚弱 。 NL 立即 结束你的回合 。"
+  },
+  "nikoandcs:OneTap": {
+    "NAME": "颗秒",
+    "DESCRIPTION": "造成 !D! 点伤害 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害 。"
+  },
+  "nikoandcs:PrinceOfDesertEagle": {
+    "NAME": "沙鹰王子",
+    "DESCRIPTION": "消耗 X 点能量 。 NL 将 X 张 颗秒 置入你的手牌 。",
+    "UPGRADE_DESCRIPTION": "消耗 X 点能量 。 NL 将 X + 1 张 颗秒 置入你的手牌 。"
+  },
+  "nikoandcs:ABgo": {
+    "NAME": "ABgo",
+    "DESCRIPTION": "获得 [E] 。 NL 抽 !M! 张牌 。 NL 失去 4 点 临时敏捷 。 NL 虚无 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "获得 [E] 。 NL 抽 !M! 张牌 。 NL 失去 4 点 临时敏捷 。 NL 虚无 。 NL 消耗 。"
+  },
+  "nikoandcs:MentalPeak": {
+    "NAME": "智斗癫疯",
+    "DESCRIPTION": "若目标意图为 攻击 ， NL 获得 !M! 点 力量 。 NL 否则 ， 获得 !M! 点 敏捷 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "若目标意图为 攻击 ， NL 获得 !M! 点 力量 。 NL 否则 ， 获得 !M! 点 敏捷 。 NL 消耗 。"
+  },
+  "nikoandcs:ThirdFloorFun": {
+    "NAME": "三楼趣事",
+    "DESCRIPTION": "获得 !M! 层 缓冲 。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 层 缓冲 。"
+  },
+  "nikoandcs:SuccessfulBet": {
+    "NAME": "赌点成功",
+    "DESCRIPTION": "对全体敌人造成 !D! 点伤害 。 NL 获得 !B! 点格挡 。 NL 虚无 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "对全体敌人造成 !D! 点伤害 。 NL 获得 !B! 点格挡 。 NL 虚无 。 NL 消耗 。"
+  },
+  "nikoandcs:FailedBet": {
+    "NAME": "赌点失败",
+    "DESCRIPTION": "获得 !B! 点格挡 。 NL 下回合 少抽 1 张牌 。 NL 虚无 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡 。 NL 下回合 少抽 1 张牌 。 NL 虚无 。 NL 消耗 。"
+  },
+  "nikoandcs:Bet": {
+    "NAME": "赌点",
+    "DESCRIPTION": "获得 !M! 点 临时敏捷 。 NL 随机将一张 赌点成功 或 赌点失败 加入你的手牌 。 NL 虚无 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 点 临时敏捷 。  NL 随机将一张 赌点成功 或 赌点失败 加入你的手牌 。 NL 虚无 。 NL 消耗 。"
+  },
+  "nikoandcs:DynamicTactics": {
+    "NAME": "动态战术",
+    "DESCRIPTION": "获得 !M! 点临时 力量 和 敏捷 。 NL 抽 2 张牌 。 NL 虚无 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 点临时 力量 和 敏捷 。 NL 抽 2 张牌 。 NL 虚无 。 NL 消耗 。"
+  },
+  "nikoandcs:SmartDefault": {
+    "NAME": "智慧默认",
+    "DESCRIPTION": "获得 !B! 点格挡 。 NL 造成 !D! 点伤害 。 NL 抽 1 张牌 。 NL 虚无 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡 。 NL 造成 !D! 点伤害 。 NL 抽 1 张牌 。 NL 虚无 。 NL 消耗 。"
+  },
+  "nikoandcs:BrainKing": {
+    "NAME": "脑力王",
+    "DESCRIPTION": "在你的回合开始时 ， 从 [#efc851]ABgo[] 、 [#efc851]智慧默认[] 、 [#efc851]赌点[] 或 [#efc851]动态战术[] 中 选择 1 张加入手牌 。",
+    "UPGRADE_DESCRIPTION": "在你的回合开始时 ， 从 [#efc851]ABgo[] 、 [#efc851]智慧默认[] 、 [#efc851]赌点[] 或 [#efc851]动态战术[] 中 选择 1 张加入手牌 。"
+  },
+  "nikoandcs:TemporaryCommand": {
+    "NAME": "临时指挥",
+    "DESCRIPTION": "从 #yABgo 、 #y智慧默认 、 #y赌点 或 #y动态战术 中 选择 1 张加入手牌 。",
+    "UPGRADE_DESCRIPTION": "从 #yABgo 、 #y智慧默认 、 #y赌点 或 #y动态战术 中 选择 1 张加入手牌 。"
+  },
+  "nikoandcs:EntryFragger": {
+    "NAME": "突破手",
+    "DESCRIPTION": "当前每有一名敌人 ， 造成 !D! 点伤害 。",
+    "UPGRADE_DESCRIPTION": "当前每有一名敌人 ， 造成 !D! 点伤害 。"
+  },
+  "nikoandcs:BigMove": {
+    "NAME": "拿分大招",
+    "DESCRIPTION": "消耗手牌中所有 非攻击牌 。 NL 每消耗一张牌 ， 获得 [E] 并 抽 1 张牌 。 NL 虚无 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "消耗手牌中所有 非攻击牌 。 NL 每消耗一张牌 ， 获得 [E] 并 抽 1 张牌 。 NL 消耗 。"
+  },
+  "nikoandcs:Flaming": {
+    "NAME": "燃起来了",
+    "DESCRIPTION": "将你的 力量 和 敏捷 翻倍 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "将你的 力量 和 敏捷 翻倍 。"
+  },
+  "nikoandcs:LookingBack": {
+    "NAME": "回望过去",
+    "DESCRIPTION": "从你的弃牌堆中选择 !M! 张牌加入手牌 。",
+    "UPGRADE_DESCRIPTION": "从你的弃牌堆中选择 !M! 张牌加入手牌 。"
+  },
+  "nikoandcs:Glued": {
+    "NAME": "黏住",
+    "DESCRIPTION": "获得 !B! 点格挡 。 NL 造成 !D! 点伤害 。 NL 给予 !M! 层 虚弱 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡 。 NL 造成 !D! 点伤害 。 NL 给予 !M! 层 虚弱 。"
+  },
+  "nikoandcs:DeskSlam": {
+    "NAME": "砸桌子",
+    "DESCRIPTION": "对全体敌人造成 !D! 点伤害 2 次 。 NL 给予全体敌人 1 层 易伤 。",
+    "UPGRADE_DESCRIPTION": "对全体敌人造成 !D! 点伤害 3 次 。 NL 给予全体敌人 !M! 层 易伤 。"
+  },
+  "nikoandcs:CounterExecution": {
+    "NAME": "对位处刑",
+    "DESCRIPTION": "仅当目标具有 攻击意图 时才可打出 。 NL 如果目标生命值小于或等于 !M! ， 直接将其消灭 。",
+    "UPGRADE_DESCRIPTION": "仅当目标具有 攻击意图 时才可打出 。 NL 如果目标生命值小于或等于 !M! ， 直接将其消灭 。",
+    "EXTENDED_DESCRIPTION": [
+      "目标当前没有攻击意图 。"
+    ]
+  },
+  "nikoandcs:BulletproofHelmet": {
+    "NAME": "防弹头盔",
+    "DESCRIPTION": "获得 !M! 层 #y金属化 。 NL 获得 1 层 #y人工制品 。 NL #y消耗 。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 层 #y金属化 。 NL 获得 2 层 #y人工制品 。 NL #y消耗 。"
+  },
+  "nikoandcs:Reload": {
+    "NAME": "换弹",
+    "DESCRIPTION": "抽 !M! 张牌 。",
+    "UPGRADE_DESCRIPTION": "抽 !M! 张牌 。"
+  },
+  "nikoandcs:BodyFlick": {
+    "NAME": "身法",
+    "DESCRIPTIONS": [
+      "每当你获得 #y力量 或 #y敏捷 时 ， 获得 ",
+      " 点 #y格挡 。"
+    ]
+  },
+  "nikoandcs:BodyFlickPower": {
+    "NAME": "身法",
+    "DESCRIPTIONS": [
+      "每当你获得 #y力量 或 #y敏捷 时 ， 获得 ",
+      " 点 #y格挡 。"
+    ]
+  }
+}
